@@ -7,4 +7,4 @@ It contains a graphml-Export of the Neo4j-database of the AUTOR_GEGNER-relation 
 
 Project website: http://www.controversia-et-confessio.de/
 
-Presentation: http://prezi.com/7kan3xmiarmw/?utm_campaign=share&utm_medium=copy
+Presentation: https://prezi.com/7kan3xmiarmw/identitat-durch-abgrenzung/
